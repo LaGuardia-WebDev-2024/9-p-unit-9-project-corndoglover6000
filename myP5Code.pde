@@ -6,7 +6,7 @@ var answer = 1;
 var y = 150;
 var speed = .5;
 var pinkieStill = loadImage("https://www.clipartmax.com/png/full/87-871831_pink-eyes-clipart-pinky-my-little-pony-pinkie-pie.png");
-var pinkieTalk = loadImage("https://static.wikia.nocookie.net/ponymondawndusk/images/4/42/PinkiePie.png/revision/latest?cb=20120507160059");
+var pinkieTalk = loadImage("https://static.wikia.nocookie.net/ponymondawndusk/images/4/42/PinkiePie.png");
 
 draw = function(){
   background(255,255,255,0);
